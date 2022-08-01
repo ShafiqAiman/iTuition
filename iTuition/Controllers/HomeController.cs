@@ -18,6 +18,12 @@ namespace iTuition.Controllers
             return View();
         }
 
+        //GET : Home/Pricing
+        public IActionResult Pricing()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
