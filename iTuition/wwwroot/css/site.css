@@ -86,3 +86,7 @@ body {
     vertical-align: -.125em;
     fill: currentColor;
 }
+
+.carouselnews{
+    opacity:0.4;
+}
